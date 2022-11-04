@@ -1,0 +1,18 @@
+{
+  "name": "sbobetasia-9",
+  "main": "./lib/sbobetasia-9",
+  "version": "1.0.0",
+  "description": "sbobetasia เว็บแทงบอล sbobet เว็บใหญ่อันดับต้นๆ ของไทย SBOASIA9",
+  "keywords": [ "sbobetasia,sbobet,sbo,SBOASIA,SBOASIA9"
+  ],
+  "activationCommands": {
+    "atom-workspace": "sbobetasia-9:toggle"
+  },
+  "repository": "https://github.com/RCTJ/sbobetasia-9",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

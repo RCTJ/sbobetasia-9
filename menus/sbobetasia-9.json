@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sbobetasia-9",
+        "command": "sbobetasia-9:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sbobetasia-9",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sbobetasia-9:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
